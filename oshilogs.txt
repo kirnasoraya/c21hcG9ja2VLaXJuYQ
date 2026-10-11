@@ -1,0 +1,227 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VLaXJuYQ/c21hcG9ja2VLaXJuYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Kirna =====
+[1]Kirna       |08:41:58 | 11-10-2026| login OK @kirnasoraya | score=940 rank=6211
+[1]Kirna       |08:41:58 | 11-10-2026| serverTime=2026-10-11T08:41:58.000Z local=2026-10-11T08:41:58.499Z
+--> [1]Kirna menjalankan: Claim Daily
+[1]Kirna       |08:41:59 | 11-10-2026| daily: sudah klaim (already=true) score=940
+--> [1]Kirna menjalankan: Auto All Tasks (3 pending)
+[1]Kirna       |08:42:01 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kirnasoraya/status/2109202492775283225
+[1]Kirna       |08:42:01 | 11-10-2026| delay 10s...
+[1]Kirna       |08:42:13 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kirnasoraya/status/2109202405044007375
+[1]Kirna       |08:42:13 | 11-10-2026| delay 10s...
+[1]Kirna       |08:42:34 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kirnasoraya/status/2109202367217265187
+[1]Kirna       |08:42:34 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kirna       |08:42:36 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/kirnasoraya/status/2109202361340671895
+--> [1]Kirna menjalankan: Watch Anime
+[1]Kirna       |08:42:38 | 11-10-2026| watch: 3 video belum completed: oshi-first-journey,ep2,ep5
+[1]Kirna       |08:42:38 | 11-10-2026| watch [1/3] farming oshi-first-journey...
+[1]Kirna       |08:42:40 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Kirna       |08:42:47 | 11-10-2026| watch oshi-first-journey: 6% (5.47/87.00s)
+[1]Kirna       |08:42:54 | 11-10-2026| watch oshi-first-journey: 13% (11.91/87.00s)
+[1]Kirna       |08:43:02 | 11-10-2026| watch oshi-first-journey: 21% (18.59/87.00s)
+[1]Kirna       |08:43:09 | 11-10-2026| watch oshi-first-journey: 29% (25.34/87.00s)
+[1]Kirna       |08:43:16 | 11-10-2026| watch oshi-first-journey: 36% (31.38/87.00s)
+[1]Kirna       |08:43:24 | 11-10-2026| watch oshi-first-journey: 44% (38.39/87.00s)
+[1]Kirna       |08:43:31 | 11-10-2026| watch oshi-first-journey: 51% (44.82/87.00s)
+[1]Kirna       |08:43:38 | 11-10-2026| watch oshi-first-journey: 59% (51.60/87.00s)
+[1]Kirna       |08:43:47 | 11-10-2026| watch oshi-first-journey: 66% (57.83/87.00s)
+[1]Kirna       |08:43:55 | 11-10-2026| watch oshi-first-journey: 76% (66.12/87.00s)
+[1]Kirna       |08:44:02 | 11-10-2026| watch oshi-first-journey: 84% (73.19/87.00s)
+[1]Kirna       |08:44:11 | 11-10-2026| watch oshi-first-journey: 91% (79.66/87.00s)
+[1]Kirna       |08:44:11 | 11-10-2026| watch oshi-first-journey: COMPLETED (79.66/87.00s)
+[1]Kirna       |08:44:16 | 11-10-2026| watch [2/3] farming ep2...
+[1]Kirna       |08:44:19 | 11-10-2026| watch ep2: mulai dari 0 (record 87.5s diabaikan)
+[1]Kirna       |08:44:25 | 11-10-2026| watch ep2: 21% (87.53/406.00s)
+[1]Kirna       |08:44:34 | 11-10-2026| watch ep2: 21% (87.53/406.00s)
+[1]Kirna       |08:44:42 | 11-10-2026| watch ep2: 21% (87.53/406.00s)
+[1]Kirna       |08:44:49 | 11-10-2026| watch ep2: 21% (87.53/406.00s)
+[1]Kirna       |08:44:55 | 11-10-2026| watch ep2: 21% (87.53/406.00s)
+[1]Kirna       |08:45:01 | 11-10-2026| watch ep2: 21% (87.53/406.00s)
+[1]Kirna       |08:45:09 | 11-10-2026| watch ep2: 21% (87.53/406.00s)
+[1]Kirna       |08:45:16 | 11-10-2026| watch ep2: 21% (87.53/406.00s)
+[1]Kirna       |08:45:24 | 11-10-2026| watch ep2: 21% (87.76/406.00s)
+[1]Kirna       |08:45:32 | 11-10-2026| watch ep2: 21% (87.76/406.00s)
+[1]Kirna       |08:45:39 | 11-10-2026| watch ep2: 21% (87.76/406.00s)
+[1]Kirna       |08:45:46 | 11-10-2026| watch ep2: 21% (87.76/406.00s)
+[1]Kirna       |08:45:57 | 11-10-2026| watch ep2: 21% (87.76/406.00s)
+[1]Kirna       |08:46:05 | 11-10-2026| watch ep2: 22% (92.11/406.00s)
+[1]Kirna       |08:46:12 | 11-10-2026| watch ep2: 24% (99.20/406.00s)
+[1]Kirna       |08:46:18 | 11-10-2026| watch ep2: 25% (105.53/406.00s)
+[1]Kirna       |08:46:25 | 11-10-2026| watch ep2: 27% (111.34/406.00s)
+[1]Kirna       |08:46:32 | 11-10-2026| watch ep2: 28% (117.60/406.00s)
+[1]Kirna       |08:46:41 | 11-10-2026| watch ep2: 30% (123.48/406.00s)
+[1]Kirna       |08:46:47 | 11-10-2026| watch ep2: 31% (129.83/406.00s)
+[1]Kirna       |08:46:54 | 11-10-2026| watch ep2: 33% (135.49/406.00s)
+[1]Kirna       |08:47:03 | 11-10-2026| watch ep2: 34% (142.00/406.00s)
+[1]Kirna       |08:47:11 | 11-10-2026| watch ep2: 36% (149.80/406.00s)
+[1]Kirna       |08:47:19 | 11-10-2026| watch ep2: 38% (157.27/406.00s)
+[1]Kirna       |08:47:26 | 11-10-2026| watch ep2: 40% (163.81/406.00s)
+[1]Kirna       |08:47:36 | 11-10-2026| watch ep2: 42% (170.59/406.00s)
+[1]Kirna       |08:47:47 | 11-10-2026| watch ep2: 44% (178.97/406.00s)
+[1]Kirna       |08:47:56 | 11-10-2026| watch ep2: 46% (187.99/406.00s)
+[1]Kirna       |08:48:04 | 11-10-2026| watch ep2: 48% (195.87/406.00s)
+[1]Kirna       |08:48:11 | 11-10-2026| watch ep2: 50% (203.04/406.00s)
+[1]Kirna       |08:48:22 | 11-10-2026| watch ep2: 51% (209.91/406.00s)
+[1]Kirna       |08:48:31 | 11-10-2026| watch ep2: 54% (219.74/406.00s)
+[1]Kirna       |08:48:38 | 11-10-2026| watch ep2: 55% (225.98/406.00s)
+[1]Kirna       |08:48:45 | 11-10-2026| watch ep2: 57% (231.59/406.00s)
+[1]Kirna       |08:48:51 | 11-10-2026| watch ep2: 58% (237.89/406.00s)
+[1]Kirna       |08:48:57 | 11-10-2026| watch ep2: 59% (243.51/406.00s)
+[1]Kirna       |08:49:04 | 11-10-2026| watch ep2: 61% (249.25/406.00s)
+[1]Kirna       |08:49:11 | 11-10-2026| watch ep2: 62% (254.86/406.00s)
+[1]Kirna       |08:49:18 | 11-10-2026| watch ep2: 64% (261.61/406.00s)
+[1]Kirna       |08:49:25 | 11-10-2026| watch ep2: 66% (268.05/406.00s)
+[1]Kirna       |08:49:31 | 11-10-2026| watch ep2: 67% (273.89/406.00s)
+[1]Kirna       |08:49:38 | 11-10-2026| watch ep2: 68% (279.76/406.00s)
+[1]Kirna       |08:49:45 | 11-10-2026| watch ep2: 70% (285.54/406.00s)
+[1]Kirna       |08:49:52 | 11-10-2026| watch ep2: 71% (291.60/406.00s)
+[1]Kirna       |08:49:59 | 11-10-2026| watch ep2: 73% (298.10/406.00s)
+[1]Kirna       |08:50:07 | 11-10-2026| watch ep2: 75% (305.04/406.00s)
+[1]Kirna       |08:50:14 | 11-10-2026| watch ep2: 76% (311.58/406.00s)
+[1]Kirna       |08:50:20 | 11-10-2026| watch ep2: 78% (317.84/406.00s)
+[1]Kirna       |08:50:26 | 11-10-2026| watch ep2: 79% (323.57/406.00s)
+[1]Kirna       |08:50:34 | 11-10-2026| watch ep2: 81% (329.25/406.00s)
+[1]Kirna       |08:50:41 | 11-10-2026| watch ep2: 82% (336.20/406.00s)
+[1]Kirna       |08:50:48 | 11-10-2026| watch ep2: 84% (342.32/406.00s)
+[1]Kirna       |08:50:54 | 11-10-2026| watch ep2: 85% (348.49/406.00s)
+[1]Kirna       |08:51:01 | 11-10-2026| watch ep2: 87% (354.17/406.00s)
+[1]Kirna       |08:51:07 | 11-10-2026| watch ep2: 88% (359.91/406.00s)
+[1]Kirna       |08:51:15 | 11-10-2026| watch ep2: 90% (365.50/406.00s)
+[1]Kirna       |08:51:15 | 11-10-2026| watch ep2: COMPLETED (365.50/406.00s)
+[1]Kirna       |08:51:20 | 11-10-2026| watch [3/3] farming ep5...
+[1]Kirna       |08:51:23 | 11-10-2026| watch ep5: 0% (0.00/396.00s)
+[1]Kirna       |08:51:29 | 11-10-2026| watch ep5: 1% (6.27/396.00s)
+[1]Kirna       |08:51:37 | 11-10-2026| watch ep5: 3% (11.91/396.00s)
+[1]Kirna       |08:51:45 | 11-10-2026| watch ep5: 4% (19.04/396.00s)
+[1]Kirna       |08:51:52 | 11-10-2026| watch ep5: 6% (26.68/396.00s)
+[1]Kirna       |08:52:01 | 11-10-2026| watch ep5: 8% (32.89/396.00s)
+[1]Kirna       |08:52:09 | 11-10-2026| watch ep5: 10% (41.17/396.00s)
+[1]Kirna       |08:52:16 | 11-10-2026| watch ep5: 11% (47.46/396.00s)
+[1]Kirna       |08:52:22 | 11-10-2026| watch ep5: 13% (53.13/396.00s)
+[1]Kirna       |08:52:29 | 11-10-2026| watch ep5: 14% (58.73/396.00s)
+[1]Kirna       |08:52:37 | 11-10-2026| watch ep5: 16% (65.03/396.00s)
+[1]Kirna       |08:52:44 | 11-10-2026| watch ep5: 18% (71.53/396.00s)
+[1]Kirna       |08:52:51 | 11-10-2026| watch ep5: 19% (77.29/396.00s)
+[1]Kirna       |08:52:59 | 11-10-2026| watch ep5: 21% (83.55/396.00s)
+[1]Kirna       |08:53:07 | 11-10-2026| watch ep5: 22% (91.04/396.00s)
+[1]Kirna       |08:53:13 | 11-10-2026| watch ep5: 24% (98.05/396.00s)
+[1]Kirna       |08:53:21 | 11-10-2026| watch ep5: 26% (104.08/396.00s)
+[1]Kirna       |08:53:27 | 11-10-2026| watch ep5: 27% (110.49/396.00s)
+[1]Kirna       |08:53:33 | 11-10-2026| watch ep5: 29% (116.17/396.00s)
+[1]Kirna       |08:53:41 | 11-10-2026| watch ep5: 30% (121.90/396.00s)
+[1]Kirna       |08:53:47 | 11-10-2026| watch ep5: 32% (128.27/396.00s)
+[1]Kirna       |08:53:59 | 11-10-2026| watch ep5: 33% (134.00/396.00s)
+[1]Kirna       |08:54:06 | 11-10-2026| watch ep5: 33% (134.00/396.00s)
+[1]Kirna       |08:54:12 | 11-10-2026| watch ep5: 35% (140.13/396.00s)
+[1]Kirna       |08:54:20 | 11-10-2026| watch ep5: 36% (146.38/396.00s)
+[1]Kirna       |08:54:28 | 11-10-2026| watch ep5: 38% (152.88/396.00s)
+[1]Kirna       |08:54:36 | 11-10-2026| watch ep5: 40% (160.59/396.00s)
+[1]Kirna       |08:54:46 | 11-10-2026| watch ep5: 42% (168.00/396.00s)
+[1]Kirna       |08:54:57 | 11-10-2026| watch ep5: 44% (176.70/396.00s)
+[1]Kirna       |08:55:03 | 11-10-2026| watch ep5: 46% (183.93/396.00s)
+[1]Kirna       |08:55:13 | 11-10-2026| watch ep5: 47% (189.93/396.00s)
+[1]Kirna       |08:55:21 | 11-10-2026| watch ep5: 50% (198.68/396.00s)
+[1]Kirna       |08:55:29 | 11-10-2026| watch ep5: 52% (206.07/396.00s)
+[1]Kirna       |08:55:38 | 11-10-2026| watch ep5: 53% (213.11/396.00s)
+[1]Kirna       |08:55:48 | 11-10-2026| watch ep5: 55% (220.73/396.00s)
+[1]Kirna       |08:55:55 | 11-10-2026| watch ep5: 57% (227.78/396.00s)
+[1]Kirna       |08:56:03 | 11-10-2026| watch ep5: 59% (234.01/396.00s)
+[1]Kirna       |08:56:11 | 11-10-2026| watch ep5: 60% (240.77/396.00s)
+[1]Kirna       |08:56:17 | 11-10-2026| watch ep5: 62% (247.90/396.00s)
+[1]Kirna       |08:56:24 | 11-10-2026| watch ep5: 64% (253.60/396.00s)
+[1]Kirna       |08:56:30 | 11-10-2026| watch ep5: 65% (259.68/396.00s)
+[1]Kirna       |08:56:37 | 11-10-2026| watch ep5: 66% (265.29/396.00s)
+[1]Kirna       |08:56:44 | 11-10-2026| watch ep5: 68% (271.40/396.00s)
+[1]Kirna       |08:56:51 | 11-10-2026| watch ep5: 70% (277.26/396.00s)
+[1]Kirna       |08:56:59 | 11-10-2026| watch ep5: 71% (284.27/396.00s)
+[1]Kirna       |08:57:05 | 11-10-2026| watch ep5: 73% (290.63/396.00s)
+[1]Kirna       |08:57:12 | 11-10-2026| watch ep5: 74% (296.35/396.00s)
+[1]Kirna       |08:57:18 | 11-10-2026| watch ep5: 76% (302.41/396.00s)
+[1]Kirna       |08:57:24 | 11-10-2026| watch ep5: 77% (308.03/396.00s)
+[1]Kirna       |08:57:31 | 11-10-2026| watch ep5: 79% (313.66/396.00s)
+[1]Kirna       |08:57:38 | 11-10-2026| watch ep5: 80% (319.90/396.00s)
+[1]Kirna       |08:57:45 | 11-10-2026| watch ep5: 82% (326.33/396.00s)
+[1]Kirna       |08:57:52 | 11-10-2026| watch ep5: 83% (332.41/396.00s)
+[1]Kirna       |08:57:59 | 11-10-2026| watch ep5: 85% (338.12/396.00s)
+[1]Kirna       |08:58:05 | 11-10-2026| watch ep5: 86% (344.47/396.00s)
+[1]Kirna       |08:58:13 | 11-10-2026| watch ep5: 88% (350.30/396.00s)
+[1]Kirna       |08:58:23 | 11-10-2026| watch ep5: 90% (357.01/396.00s)
+[1]Kirna       |08:58:23 | 11-10-2026| watch ep5: COMPLETED (357.01/396.00s)
+--> [1]Kirna menjalankan: Read Article
+[1]Kirna       |08:58:27 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Kirna       |08:58:28 | 11-10-2026| mint eligibility: {"userId":"1918541717646835712","youtube":{"url":"https://www.youtube.com/@kirnasorayaa","status":"submitted","revision":"205491a8-9c83-40be-8664-4d81ef7eb8a4","submittedAt":1791682289,"reviewedAt":17
+[1]Kirna       |08:58:28 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Kirna menjalankan: Quiz Anime
+[1]Kirna       |08:58:30 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Kirna       |08:58:32 | 11-10-2026| quiz ep2: BENAR (1) +10 poin
+[1]Kirna       |08:58:35 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Kirna       |08:58:35 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Kirna       |08:58:39 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
+[1]Kirna       |08:58:42 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Kirna menjalankan: Music Missions (realtime, bisa lama!)
+[1]Kirna       |08:58:46 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Kirna       |08:58:46 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Kirna       |08:58:46 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kirna       |08:58:46 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Kirna menjalankan: Claim Missions
+[1]Kirna       |08:58:47 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Kirna       |08:58:47 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kirna       |08:58:47 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Kirna menjalankan: Check Eligibility
+
+--- eligibility [1]Kirna ---
+  @kirnasoraya | score=940 rank=6211
+  tasks    [###################-] 73/76
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Kirna menjalankan: Read Manga
+[1]Kirna       |08:58:51 | 11-10-2026| manga: 1/13 chapter belum completed
+[1]Kirna       |08:58:51 | 11-10-2026| manga [1/1] membaca ch.2 (18 hal)...
+[1]Kirna       |08:58:58 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 114s
+[1]Kirna       |08:59:03 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 120s
+[1]Kirna       |08:59:07 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 125s
+[1]Kirna       |08:59:12 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 130s
+[1]Kirna       |08:59:17 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 134s
+[1]Kirna       |08:59:22 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 139s
+[1]Kirna       |08:59:27 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 145s
+[1]Kirna       |08:59:31 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 149s
+[1]Kirna       |08:59:37 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 154s
+[1]Kirna       |08:59:41 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 159s
+[1]Kirna       |08:59:46 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 164s
+[1]Kirna       |08:59:51 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 168s
+[1]Kirna       |09:00:01 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 173s
+[1]Kirna       |09:00:08 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 183s
+[1]Kirna       |09:00:14 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 191s
+[1]Kirna       |09:00:19 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 196s
+[1]Kirna       |09:00:26 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 201s
+[1]Kirna       |09:00:33 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 208s
+[1]Kirna       |09:00:33 | 11-10-2026| manga ch2 (990005): COMPLETED
+--> [1]Kirna menjalankan: Get Gift
+[1]Kirna       |09:00:38 | 11-10-2026| gift: 0/3 belum diterima
+--> [1]Kirna menjalankan: Setup Profile
+[1]Kirna       |09:00:38 | 11-10-2026| profile: bio="https://x.com/kirnasoraya" fav=mony rewardAt=1791693587
+[1]Kirna       |09:00:38 | 11-10-2026| profile: bonus sudah diklaim, skip
+--> [1]Kirna menjalankan: Bind Wallet
+[1]Kirna       |09:00:39 | 11-10-2026| wallet: sudah terikat KWfka75mmB... (solana)
+
+== RINGKASAN ==
+- Kirna: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+20pt) | watch 3/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 1/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
