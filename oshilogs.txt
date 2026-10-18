@@ -12,52 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kirna =====
-[1]Kirna       |08:13:06 | 17-10-2026| login OK @kirnasoraya | score=1330 rank=4880
-[1]Kirna       |08:13:06 | 17-10-2026| serverTime=2026-10-17T08:13:06.000Z local=2026-10-17T08:13:06.414Z
+[1]Kirna       |08:30:22 | 18-10-2026| login OK @kirnasoraya | score=1370 rank=4867
+[1]Kirna       |08:30:22 | 18-10-2026| serverTime=2026-10-18T08:30:21.000Z local=2026-10-18T08:30:22.281Z
 --> [1]Kirna menjalankan: Claim Daily
-[1]Kirna       |08:13:07 | 17-10-2026| daily: OK +10 poin score=1340
---> [1]Kirna menjalankan: Auto All Tasks (3 pending)
-[1]Kirna       |08:13:09 | 17-10-2026| [1/3] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/kirnasoraya/status/2111369576937810574
-[1]Kirna       |08:13:09 | 17-10-2026| delay 10s...
-[1]Kirna       |08:13:21 | 17-10-2026| [2/3] 88c776e0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/kirnasoraya/status/2111369472854322406
-[1]Kirna       |08:13:21 | 17-10-2026| delay 10s...
-[1]Kirna       |08:13:34 | 17-10-2026| [3/3] cc2ba95b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/kirnasoraya/status/2111369422542852732
-[1]Kirna       |08:13:34 | 17-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kirna       |08:13:36 | 17-10-2026| [1/1] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110706688701735 | proof=https://x.com/kirnasoraya/status/2111369722701870573
+[1]Kirna       |08:30:24 | 18-10-2026| daily: OK +10 poin score=1380
+--> [1]Kirna menjalankan: Auto All Tasks (5 pending)
+[1]Kirna       |08:30:27 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/kirnasoraya/status/2111736283709218982
+[1]Kirna       |08:30:27 | 18-10-2026| delay 10s...
+[1]Kirna       |08:30:41 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/kirnasoraya/status/2111736436302803583
+[1]Kirna       |08:30:41 | 18-10-2026| delay 10s...
+[1]Kirna       |08:30:54 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/kirnasoraya/status/2111736124048672735
+[1]Kirna       |08:30:54 | 18-10-2026| delay 10s...
+[1]Kirna       |08:31:11 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
+[1]Kirna       |08:31:11 | 18-10-2026| delay 10s...
+[1]Kirna       |08:31:25 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/kirnasoraya/status/2111736410236437500
+[1]Kirna       |08:31:25 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kirna       |08:31:28 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/kirnasoraya/status/2111736611867875794
 --> [1]Kirna menjalankan: Watch Anime
-[1]Kirna       |08:13:37 | 17-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Kirna       |08:13:37 | 17-10-2026| watch [1/3] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Kirna       |08:13:38 | 17-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Kirna       |08:13:43 | 17-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Kirna       |08:13:45 | 17-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Kirna       |08:13:50 | 17-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Kirna       |08:13:52 | 17-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Kirna       |08:31:29 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Kirna       |08:31:29 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +5)
+[1]Kirna       |08:31:31 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Kirna       |08:31:36 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Kirna       |08:31:39 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Kirna       |08:31:44 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Kirna       |08:31:46 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Kirna       |08:31:51 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Kirna       |08:31:53 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Kirna menjalankan: Read Article
-[1]Kirna       |08:13:53 | 17-10-2026| news: 27/27 artikel selesai dibaca
-[1]Kirna       |08:13:54 | 17-10-2026| mint eligibility: {"userId":"1918541717646835712","youtube":{"url":"https://www.youtube.com/@kirnasorayaa","status":"submitted","revision":"205491a8-9c83-40be-8664-4d81ef7eb8a4","submittedAt":1791682289,"reviewedAt":17
-[1]Kirna       |08:13:54 | 17-10-2026| news: semua artikel sudah dibaca
+[1]Kirna       |08:31:55 | 18-10-2026| news: 27/27 artikel selesai dibaca
+[1]Kirna       |08:31:56 | 18-10-2026| mint eligibility: {"userId":"1918541717646835712","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@kirnasorayaa","status":"submitted","revision":"205491a8-9c83-40be-8664-4d81ef7eb
+[1]Kirna       |08:31:56 | 18-10-2026| news: semua artikel sudah dibaca
 --> [1]Kirna menjalankan: Quiz Anime
-[1]Kirna       |08:13:54 | 17-10-2026| quiz ep1: sudah dijawab
-[1]Kirna       |08:13:54 | 17-10-2026| quiz ep2: sudah dijawab
-[1]Kirna       |08:13:54 | 17-10-2026| quiz ep3: sudah dijawab
-[1]Kirna       |08:13:54 | 17-10-2026| quiz ep4: sudah dijawab
-[1]Kirna       |08:13:54 | 17-10-2026| quiz ep5: sudah dijawab
-[1]Kirna       |08:13:54 | 17-10-2026| quiz ep6: sudah dijawab
+[1]Kirna       |08:31:56 | 18-10-2026| quiz ep1: sudah dijawab
+[1]Kirna       |08:31:56 | 18-10-2026| quiz ep2: sudah dijawab
+[1]Kirna       |08:31:56 | 18-10-2026| quiz ep3: sudah dijawab
+[1]Kirna       |08:31:56 | 18-10-2026| quiz ep4: sudah dijawab
+[1]Kirna       |08:31:56 | 18-10-2026| quiz ep5: sudah dijawab
+[1]Kirna       |08:31:56 | 18-10-2026| quiz ep6: sudah dijawab
 --> [1]Kirna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kirna       |08:13:56 | 17-10-2026| music: kedua misi sudah tercapai, stop
-[1]Kirna       |08:13:57 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Kirna       |08:13:57 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kirna       |08:13:57 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kirna       |08:32:01 | 18-10-2026| music: kedua misi sudah tercapai, stop
+[1]Kirna       |08:32:02 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Kirna       |08:32:02 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kirna       |08:32:02 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kirna menjalankan: Claim Missions
-[1]Kirna       |08:13:57 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Kirna       |08:13:57 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kirna       |08:13:57 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kirna       |08:32:04 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Kirna       |08:32:04 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kirna       |08:32:04 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kirna menjalankan: Check Eligibility
 
 --- eligibility [1]Kirna ---
-  @kirnasoraya | score=1330 rank=4880
-  tasks    [###################-] 76/79
+  @kirnasoraya | score=1370 rank=4867
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -68,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kirna menjalankan: Read Manga
-[1]Kirna       |08:14:01 | 17-10-2026| manga: 0/13 chapter belum completed
+[1]Kirna       |08:32:10 | 18-10-2026| manga: 0/13 chapter belum completed
 --> [1]Kirna menjalankan: Get Gift
-[1]Kirna       |08:14:02 | 17-10-2026| gift: 0/4 belum diterima
+[1]Kirna       |08:32:11 | 18-10-2026| gift: 0/4 belum diterima
 --> [1]Kirna menjalankan: Setup Profile
-[1]Kirna       |08:14:02 | 17-10-2026| profile: bio="https://x.com/kirnasoraya" fav=mony rewardAt=1791693587
-[1]Kirna       |08:14:02 | 17-10-2026| profile: bonus sudah diklaim, skip
+[1]Kirna       |08:32:12 | 18-10-2026| profile: bio="https://x.com/kirnasoraya" fav=mony rewardAt=1791693587
+[1]Kirna       |08:32:12 | 18-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Kirna menjalankan: Bind Wallet
-[1]Kirna       |08:14:03 | 17-10-2026| wallet: sudah terikat KWfka75mmB... (solana)
+[1]Kirna       |08:32:13 | 18-10-2026| wallet: sudah terikat KWfka75mmB... (solana)
 
 == RINGKASAN ==
-- Kirna: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Kirna: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
